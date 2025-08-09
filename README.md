@@ -6,7 +6,7 @@ Includes **Dark Mode**, **Password Strength Meter**, and the ability to **Save &
 ---
 
 ## 📸 Screenshot
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
